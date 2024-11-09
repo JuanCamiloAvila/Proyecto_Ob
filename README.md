@@ -1,2 +1,2 @@
-# Proyecto_Ob
+# Proyectob
 Proyecto Clúster, PCA, Preprocesamiento + Modelo
